@@ -16,8 +16,9 @@ arch:forschungstätigkeit a skos:Concept ;
 
 arch:studienfach a skos:Concept ;
     skos:prefLabel "Studienfach"@de ;
+    skos:narrower arch:afrikanischeArchäologie;
     skos:topConceptOf arch: .
     
 colour:afrikanischeArchäologie a skos:Concept ;
     skos:prefLabel "Afrikanische Archäologie"@de ;
-    skos:inScheme arch:studienfach .
+    skos:inScheme arch: .
