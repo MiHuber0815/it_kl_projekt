@@ -24,7 +24,7 @@ arch:afrikanischeArchäologie a skos:Concept ;
     skos:prefLabel "Afrikanische Archäologie"@de ;
     skos:inScheme arch: .
 
-arch:arch:ägyptischePhilologie; a skos:Concept ;
+ arch:ägyptischePhilologie; a skos:Concept ;
     skos:prefLabel "Ägyptische Philologie"@de ;
     skos:inScheme arch: .
 
