@@ -1,39 +1,26 @@
 {
-  "id": "https://example.org/colour/violet",
+  "id": "https://example.org/arch/afrikanischeArchäologie",
   "type": "Concept",
   "prefLabel": {
-    "de": "Violett",
-    "en": "violet"
+    "de": "Afrikanische Archäologie"
   },
-  "altLabel": {
-    "de": [
-      "Lila"
-    ],
-    "en": [
-      "purple"
-    ]
+  "broader": {
+    "id": "https://example.org/arch/studienfach",
+    "prefLabel": {
+      "de": "Studienfach"
+    }
   },
   "inScheme": [
     {
-      "id": "https://example.org/colour/",
+      "id": "https://example.org/arch/",
       "title": {
-        "de": "Farbvokabular",
-        "en": "Colour Vocabulary"
+        "de": "Vokabular Archäologie"
       }
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://example.org/colour/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://example.org/colour/",
-      "title": {
-        "de": "Farbvokabular",
-        "en": "Colour Vocabulary"
-      }
+      "id": "https://example.org/arch/"
     }
   ],
   "@context": {

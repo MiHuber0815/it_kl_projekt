@@ -1,38 +1,27 @@
 {
-  "id": "https://example.org/colour/violet",
+  "id": "https://example.org/arch/forschungstätigkeit",
   "type": "Concept",
   "prefLabel": {
-    "de": "Violett",
-    "en": "violet"
-  },
-  "altLabel": {
-    "de": [
-      "Lila"
-    ],
-    "en": [
-      "purple"
-    ]
+    "de": "Forschungstätigkeit"
   },
   "inScheme": [
     {
-      "id": "https://example.org/colour/",
+      "id": "https://example.org/arch/",
       "title": {
-        "de": "Farbvokabular",
-        "en": "Colour Vocabulary"
+        "de": "Vokabular Archäologie"
       }
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://example.org/colour/"
+      "id": "https://example.org/arch/"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://example.org/colour/",
+      "id": "https://example.org/arch/",
       "title": {
-        "de": "Farbvokabular",
-        "en": "Colour Vocabulary"
+        "de": "Vokabular Archäologie"
       }
     }
   ],
