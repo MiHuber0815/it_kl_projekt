@@ -1,23 +1,15 @@
 {
-  "id": "https://example.org/arch/studienfach",
+  "id": "https://example.org/arch/ägyptischePhilologie",
   "type": "Concept",
   "prefLabel": {
-    "de": "Studienfach"
+    "de": "Ägyptische Philologie"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/arch/afrikanischeArchäologie",
-      "prefLabel": {
-        "de": "Afrikanische Archäologie"
-      }
-    },
-    {
-      "id": "https://example.org/arch/ägyptischePhilologie",
-      "prefLabel": {
-        "de": "Ägyptische Philologie"
-      }
+  "broader": {
+    "id": "https://example.org/arch/studienfach",
+    "prefLabel": {
+      "de": "Studienfach"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",
@@ -29,14 +21,6 @@
   "inSchemeAll": [
     {
       "id": "https://example.org/arch/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://example.org/arch/",
-      "title": {
-        "de": "Vokabular Archäologie"
-      }
     }
   ],
   "@context": {

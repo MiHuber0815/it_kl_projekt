@@ -10,6 +10,12 @@
       "prefLabel": {
         "de": "Afrikanische Archäologie"
       }
+    },
+    {
+      "id": "https://example.org/arch/ägyptischePhilologie",
+      "prefLabel": {
+        "de": "Ägyptische Philologie"
+      }
     }
   ],
   "inScheme": [
