@@ -17,8 +17,14 @@ arch:forschungstätigkeit a skos:Concept ;
 arch:studienfach a skos:Concept ;
     skos:prefLabel "Studienfach"@de ;
     skos:narrower arch:afrikanischeArchäologie;
+    skos:narrower arch:ägyptischePhilologie;
     skos:topConceptOf arch: .
     
 arch:afrikanischeArchäologie a skos:Concept ;
     skos:prefLabel "Afrikanische Archäologie"@de ;
     skos:inScheme arch: .
+
+arch:arch:ägyptischePhilologie; a skos:Concept ;
+    skos:prefLabel "Ägyptische Philologie"@de ;
+    skos:inScheme arch: .
+
