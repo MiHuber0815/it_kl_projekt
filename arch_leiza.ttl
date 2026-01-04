@@ -182,7 +182,6 @@ skos:prefLabel "Botaniker*in"@de ;
     dct:description "Wissenschaftler*in auf dem Gebiet der Pflanzenkunde."@de ;
     skos:definition "Person, die sich mit dem Studium von Pflanzen, ihrer Systematik, Physiologie und Ökologie beschäftigt."@de ;
     skos:broader "Berufsrollen von Archäologen" ;
-    skos:narrower "Archäobotaniker*in" ;
     skos:related "Archäozoologe*in" ;
     skos:inScheme arch: .
 arch:diplomat a skos:Concept ;
@@ -192,7 +191,6 @@ skos:prefLabel "Diplomat*in"@de ;
     skos:definition "Vertreter*in eines Staates in internationalen Beziehungen."@de ;
     skos:scopeNote "Oft mit Bezug zu kulturellen oder historischen Missionen." ;
     skos:broader "Berufsrollen von Archäologen" ;
-    skos:narrower "Politker*in" ;
     skos:related " Staatsoberhaupt" ;
     skos:inScheme arch: .
 arch:ethnologe a skos:Concept ;
@@ -261,7 +259,6 @@ skos:prefLabel "Historiker*in"@de ;
     dct:description "Wissenschaftler*in, die sich mit der Erforschung und Darstellung historischer Ereignisse beschäftigt."@de ;
     skos:definition "Person, die historische Quellen analysiert und interpretiert, um die Vergangenheit zu rekonstruieren."@de ;
     skos:broader "Berufsrollen von Archäologen" ;
-    skos:narrower "Althistoriker*in" ;
     skos:related "Archivar*in; Bibliothekar*in" ;
     skos:inScheme arch: .
 arch:ingenieur a skos:Concept ;
@@ -271,7 +268,6 @@ skos:prefLabel "Ingenieur*in"@de ;
     skos:definition "Fachperson mit technischer Ausbildung, die oft in der Planung und Umsetzung von Bauprojekten oder technischen Lösungen tätig ist."@de ;
     skos:scopeNote "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde." ;
     skos:broader "Berufsrollen von Archäologen" ;
-    skos:narrower "Vermessungsingenieur*in" ;
     skos:related "Architekt*in; Bauarbeiter*in" ;
     skos:inScheme arch: .
 arch:journalist a skos:Concept ;
@@ -295,7 +291,6 @@ skos:prefLabel "Händler*in"@de ;
     dct:description "Person, die beruflich Handel betreibt."@de ;
     skos:definition "Person, die Waren oder Dienstleistungen kauft und verkauft."@de ;
     skos:broader "Berufsrollen von Archäologen" ;
-    skos:narrower "Antiquar*in" ;
     skos:related "Unternehmer*in" ;
     skos:inScheme arch: .
 arch:kartograf a skos:Concept ;
@@ -389,7 +384,6 @@ skos:prefLabel "Militärangehörige*r"@de ;
     skos:definition "Angehörige*r der Streitkräfte."@de ;
     skos:scopeNote "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. " ;
     skos:broader "Berufsrollen von Archäologen" ;
-    skos:narrower "Soldat*in; Offizier*in" ;
     skos:inScheme arch: .
 arch:museumsleiter a skos:Concept ;
 skos:prefLabel "Museumsleiter*in"@de ;
