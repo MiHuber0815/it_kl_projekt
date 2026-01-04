@@ -1,0 +1,479 @@
+{
+  "id": "https://example.org/arch/berufsrolle",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Berufsrolle"
+  },
+  "narrower": [
+    {
+      "id": "https://example.org/arch/ägyptologe",
+      "prefLabel": {
+        "de": "Ägyptologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/althistoriker",
+      "prefLabel": {
+        "de": "Althistoriker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/anthropologe",
+      "prefLabel": {
+        "de": "Anthropologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/antiquar",
+      "prefLabel": {
+        "de": "Antiquar*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/archäobotaniker",
+      "prefLabel": {
+        "de": "Archäobotaniker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/archäologe",
+      "prefLabel": {
+        "de": "Archäologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/archäozoologe",
+      "prefLabel": {
+        "de": "Archäozoologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/architekt",
+      "prefLabel": {
+        "de": "Architekt*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/archivar",
+      "prefLabel": {
+        "de": "Archivar*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/bauarbeiter",
+      "prefLabel": {
+        "de": "Bauarbeiter*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/bibliothekar",
+      "prefLabel": {
+        "de": "Bibliothekar*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/botaniker",
+      "prefLabel": {
+        "de": "Botaniker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/diplomat",
+      "prefLabel": {
+        "de": "Diplomat*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/ethnologe",
+      "prefLabel": {
+        "de": "Ethnologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/fotograf",
+      "prefLabel": {
+        "de": "Fotograf*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/geistliche",
+      "prefLabel": {
+        "de": "Geistliche*r"
+      }
+    },
+    {
+      "id": "https://example.org/arch/geograf",
+      "prefLabel": {
+        "de": "Geograf*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/geologe",
+      "prefLabel": {
+        "de": "Geologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/geophysiker",
+      "prefLabel": {
+        "de": "Geophysiker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/grabungstechniker",
+      "prefLabel": {
+        "de": "Grabungstechniker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/historiker",
+      "prefLabel": {
+        "de": "Historiker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/ingenieur",
+      "prefLabel": {
+        "de": "Ingenieur*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/journalist",
+      "prefLabel": {
+        "de": "Journalist*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/jurist",
+      "prefLabel": {
+        "de": "Jurist*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/händler",
+      "prefLabel": {
+        "de": "Händler*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/kartograf",
+      "prefLabel": {
+        "de": "Kartograf*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/kolonialbeamter",
+      "prefLabel": {
+        "de": "Kolonialbeamter*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/kunsthistoriker",
+      "prefLabel": {
+        "de": "Kunsthistoriker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/künstler",
+      "prefLabel": {
+        "de": "Künstler*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/kurator",
+      "prefLabel": {
+        "de": "Kurator*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/landesarchäologe",
+      "prefLabel": {
+        "de": "Landesarchäologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/landwirt",
+      "prefLabel": {
+        "de": "Landwirt*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/lehrer",
+      "prefLabel": {
+        "de": "Lehrer*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/linguist",
+      "prefLabel": {
+        "de": "Linguist*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/mathematiker",
+      "prefLabel": {
+        "de": "Mathematiker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/mediziner",
+      "prefLabel": {
+        "de": "Mediziner*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/militärangehörige",
+      "prefLabel": {
+        "de": "Militärangehörige*r"
+      }
+    },
+    {
+      "id": "https://example.org/arch/museumsleiter",
+      "prefLabel": {
+        "de": "Museumsleiter*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/offizier",
+      "prefLabel": {
+        "de": "Offizier*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/paläontologe",
+      "prefLabel": {
+        "de": "Paläontologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/philologe",
+      "prefLabel": {
+        "de": "Philologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/politiker",
+      "prefLabel": {
+        "de": "Politiker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/restaurator",
+      "prefLabel": {
+        "de": "Restaurator*in (archäologisch)"
+      }
+    },
+    {
+      "id": "https://example.org/arch/schriftsteller",
+      "prefLabel": {
+        "de": "Schriftsteller*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/soldat",
+      "prefLabel": {
+        "de": "Soldat*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/staatsoberhaupt",
+      "prefLabel": {
+        "de": "Staatsoberhaupt"
+      }
+    },
+    {
+      "id": "https://example.org/arch/theolog",
+      "prefLabel": {
+        "de": "Theolog*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/unternehmer",
+      "prefLabel": {
+        "de": "Unternehmer*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/vermessungsingenieur",
+      "prefLabel": {
+        "de": "Vermessungsingenieur*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/grafiker",
+      "prefLabel": {
+        "de": "Grafiker*in"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://example.org/arch/",
+      "title": {
+        "de": "Vokabular Archäologie"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://example.org/arch/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://example.org/arch/",
+      "title": {
+        "de": "Vokabular Archäologie"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
