@@ -1,0 +1,51 @@
+@prefix arch: <https://example.org/arch/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+arch: a skos:ConceptScheme ;
+    dct:title "Vokabular Propyleum Vitae"@de;
+    dct:creator "Annette Frey"@de,"Michael Huber"@de,"Birgit Lechner"@de;
+    dct:created "2025-12-22"^^xsd:date ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept arch:forschungstätigkeit, arch:studienfach, arch:berufsrolle .
+
+arch:forschungstätigkeit a skos:Concept ;
+    skos:prefLabel "Forschungstätigkeit"@de;
+    skos:topConceptOf arch: .
+
+arch:studienfach a skos:Concept ;
+    skos:prefLabel "Studienfach"@de ;
+    skos:narrower arch:afrikanischeArchäologie;
+    skos:narrower arch:ägyptischePhilologie;
+    skos:topConceptOf arch: .
+    
+arch:afrikanischeArchäologie a skos:Concept ;
+    skos:prefLabel "Afrikanische Archäologie"@de ;
+    skos:inScheme arch: .
+
+arch:ägyptischePhilologie a skos:Concept ;
+    skos:prefLabel "Ägyptische Philologie"@de ;
+    skos:inScheme arch: .
+
+
+
+arch:berufsrolle a skos:Concept ;
+    skos:prefLabel "Berufsrolle"@de;
+    {% for concept in concepts -%}
+    skos:narrower arch:{{ concept}} ;
+    {% endfor -%}
+    skos:topConceptOf arch: .
+
+
+{% for concept in concepts -%}
+arch:{{ concept}} a skos:Concept ;
+{% for verb, value in concepts[concept].items() -%}
+    {% if value is not none -%}
+    {{verb}} "{{ value }}"{% if verb in statics %}@de{% endif %} ;
+    {% endif -%}
+{% endfor -%}
+    skos:inScheme arch: .
+{% endfor -%}
+
+
