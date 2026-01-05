@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/mathematiker",
   "type": "Concept",
   "prefLabel": {
-    "de": "Lehrer*in"
+    "de": "Mathematiker*in"
   },
   "altLabel": {
     "de": [
-      "Pädagoge*in"
+      "Rechenkundige*r"
     ]
   },
   "definition": {
-    "de": "Fachperson, die Wissen vermittelt und Lernprozesse begleitet."
+    "de": "Person, die sich mit der Erforschung von Zahlen, Strukturen und mathematischen Modellen beschäftigt."
   },
   "inScheme": [
     {

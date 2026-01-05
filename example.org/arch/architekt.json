@@ -2,10 +2,15 @@
   "id": "https://example.org/arch/architekt",
   "type": "Concept",
   "prefLabel": {
-    "de": "Archäologe*in"
+    "de": "Architekt*in"
+  },
+  "altLabel": {
+    "de": [
+      "Baumeister*in"
+    ]
   },
   "definition": {
-    "de": "Person, die durch Ausgrabungen und Analysen von archäologischen Funden die Entwicklung des Menschen und die Geschichte und Kultur vergangener Gesellschaften rekonstruiert."
+    "de": "Fachperson für die Planung, Gestaltung und Überwachung von Bauprojekten, oft mit Bezug zu historischen oder archäologischen Kontexten."
   },
   "inScheme": [
     {

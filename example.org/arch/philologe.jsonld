@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/philologe",
   "type": "Concept",
   "prefLabel": {
-    "de": "Offizier*in"
+    "de": "Philologe*in"
   },
   "altLabel": {
     "de": [
-      "Militärführer*in"
+      "Sprachforscher*in"
     ]
   },
   "definition": {
-    "de": "Angehörige*r der Streitkräfte mit Führungsaufgaben."
+    "de": "Person, die sich mit der Analyse, Interpretation und Edition historischer Texte beschäftigt."
   },
   "inScheme": [
     {

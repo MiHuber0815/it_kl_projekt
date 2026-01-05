@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/bauarbeiter",
   "type": "Concept",
   "prefLabel": {
-    "de": "Architekt*in"
+    "de": "Bauarbeiter*in"
   },
   "altLabel": {
     "de": [
-      "Baumeister*in"
+      "Bauhandwerker*in"
     ]
   },
   "definition": {
-    "de": "Fachperson für die Planung, Gestaltung und Überwachung von Bauprojekten, oft mit Bezug zu historischen oder archäologischen Kontexten."
+    "de": "Fachkraft, die handwerkliche Tätigkeiten auf Baustellen ausführt."
   },
   "inScheme": [
     {

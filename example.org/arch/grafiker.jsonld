@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/grafiker",
   "type": "Concept",
   "prefLabel": {
-    "de": "Unternehmer*in"
+    "de": "Grafiker*in"
   },
   "altLabel": {
     "de": [
-      "Gewerbetreibende*r"
+      "Zeichner*in"
     ]
   },
   "definition": {
-    "de": "Person, die ein Unternehmen führt oder gegründet hat, oft mit Bezug zu historischen oder archäologischen Projekten."
+    "de": "Person, die grafische Werke schafft oder technisch umsetzt."
   },
   "inScheme": [
     {

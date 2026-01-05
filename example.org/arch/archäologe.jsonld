@@ -2,15 +2,10 @@
   "id": "https://example.org/arch/archäologe",
   "type": "Concept",
   "prefLabel": {
-    "de": "Antiquar*in"
-  },
-  "altLabel": {
-    "de": [
-      "Antikenhändler*in, Antiquitätenhändler*in"
-    ]
+    "de": "Archäologe*in"
   },
   "definition": {
-    "de": "Spezialist*in für die Sammlung, die Pflege und den Handel von Büchern, Antiquitäten und seltenen Gegenständen mit historischer oder kultureller Bedeutung."
+    "de": "Person, die durch Ausgrabungen und Analysen von archäologischen Funden die Entwicklung des Menschen und die Geschichte und Kultur vergangener Gesellschaften rekonstruiert."
   },
   "inScheme": [
     {

@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/unternehmer",
   "type": "Concept",
   "prefLabel": {
-    "de": "Staatsoberhaupt"
+    "de": "Unternehmer*in"
   },
   "altLabel": {
     "de": [
-      "Herrscher*in"
+      "Gewerbetreibende*r"
     ]
   },
   "definition": {
-    "de": "Person an der Spitze der Exekutive eines Staates."
+    "de": "Person, die ein Unternehmen führt oder gegründet hat, oft mit Bezug zu historischen oder archäologischen Projekten."
   },
   "inScheme": [
     {

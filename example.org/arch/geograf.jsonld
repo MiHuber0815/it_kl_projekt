@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/geograf",
   "type": "Concept",
   "prefLabel": {
-    "de": "Fotograf*in"
+    "de": "Geograf*in"
   },
   "altLabel": {
     "de": [
-      "Photograph*in"
+      "Erdkundler*in"
     ]
   },
   "definition": {
-    "de": "Fachperson für die Anfertigung von fotografischen Aufnahmen."
+    "de": "Person, die sich mit der Beschreibung und Analyse der räumlichen Strukturen und Prozesse auf der Erde beschäftigt."
   },
   "inScheme": [
     {

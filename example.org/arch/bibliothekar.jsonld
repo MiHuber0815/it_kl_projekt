@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/bibliothekar",
   "type": "Concept",
   "prefLabel": {
-    "de": "Archivar*in"
+    "de": "Bibliothekar*in"
   },
   "altLabel": {
     "de": [
-      "Archivar*in"
+      "Bibliotheksfachkraft"
     ]
   },
   "definition": {
-    "de": "Person, die für die Erhaltung, Erschließung und Bereitstellung von Archivalien zuständig ist."
+    "de": "Person, die für die Verwaltung, Erschließung und Vermittlung von Bibliotheksbeständen zuständig ist."
   },
   "inScheme": [
     {

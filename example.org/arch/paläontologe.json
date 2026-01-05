@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/paläontologe",
   "type": "Concept",
   "prefLabel": {
-    "de": "Museumsleiter*in"
+    "de": "Paläontologe*in"
   },
   "altLabel": {
     "de": [
-      "Museumsdirektor*in"
+      "Fossilienforscher*in"
     ]
   },
   "definition": {
-    "de": "Fachperson, die für die strategische und operative Führung eines Museums verantwortlich ist."
+    "de": "Person, die fossile Überreste von Pflanzen, Tieren und anderen Organismen untersucht, um die Entwicklung des Lebens zu rekonstruieren."
   },
   "inScheme": [
     {

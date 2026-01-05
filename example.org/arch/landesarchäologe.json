@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/landesarchäologe",
   "type": "Concept",
   "prefLabel": {
-    "de": "Künstler*in"
+    "de": "Landesarchäologe*in"
   },
   "altLabel": {
     "de": [
-      "Kunstschaffende*r"
+      "Landesdenkmalpfleger*in"
     ]
   },
   "definition": {
-    "de": "Person, die künstlerische Werke schafft, oft mit Bezug zu historischen oder archäologischen Themen."
+    "de": "Person, die in einem Bundesland für die archäologische Denkmalpflege und Forschung verantwortlich ist."
   },
   "inScheme": [
     {

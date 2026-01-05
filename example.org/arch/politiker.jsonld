@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/politiker",
   "type": "Concept",
   "prefLabel": {
-    "de": "Paläontologe*in"
+    "de": "Politiker*in"
   },
   "altLabel": {
     "de": [
-      "Fossilienforscher*in"
+      "Staatsfrau/Staatsmann"
     ]
   },
   "definition": {
-    "de": "Person, die fossile Überreste von Pflanzen, Tieren und anderen Organismen untersucht, um die Entwicklung des Lebens zu rekonstruieren."
+    "de": "Vertreter*in des öffentlichen Lebens, die politische Entscheidungen trifft oder beeinflusst."
   },
   "inScheme": [
     {

@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/kunsthistoriker",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kartograf*in"
+    "de": "Kunsthistoriker*in"
   },
   "altLabel": {
     "de": [
-      "Kartenzeichner*in"
+      "Kunstgeschichtler*in"
     ]
   },
   "definition": {
-    "de": "Person, die geografische Informationen sammelt, analysiert und in Kartenform darstellt."
+    "de": "Person, die sich mit der Erforschung und Interpretation von Kunstwerken und ihrer historischen Entwicklung beschäftigt."
   },
   "inScheme": [
     {

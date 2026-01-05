@@ -2,10 +2,15 @@
   "id": "https://example.org/arch/theolog",
   "type": "Concept",
   "prefLabel": {
-    "de": "Soldat*in"
+    "de": "Theolog*in"
+  },
+  "altLabel": {
+    "de": [
+      "Religionswissenschaftler*in"
+    ]
   },
   "definition": {
-    "de": "Angehörige*r der Streitkräfte."
+    "de": "Person, die sich mit der systematischen Erforschung von Religion, Glauben und religiösen Praktiken beschäftigt."
   },
   "inScheme": [
     {

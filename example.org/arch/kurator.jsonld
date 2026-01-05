@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/kurator",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kunsthistoriker*in"
+    "de": "Kurator*in"
   },
   "altLabel": {
     "de": [
-      "Kunstgeschichtler*in"
+      "Ausstellungsleiter*in"
     ]
   },
   "definition": {
-    "de": "Person, die sich mit der Erforschung und Interpretation von Kunstwerken und ihrer historischen Entwicklung beschäftigt."
+    "de": "Fachperson, die Sammlungen verwaltet, ausstellt und wissenschaftlich aufbereitet."
   },
   "inScheme": [
     {

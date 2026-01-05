@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/schriftsteller",
   "type": "Concept",
   "prefLabel": {
-    "de": "Politiker*in"
+    "de": "Schriftsteller*in"
   },
   "altLabel": {
     "de": [
-      "Staatsfrau/Staatsmann"
+      "Autor*in"
     ]
   },
   "definition": {
-    "de": "Vertreter*in des öffentlichen Lebens, die politische Entscheidungen trifft oder beeinflusst."
+    "de": "Fachperson, die Romane, Erzählungen oder andere literarische Texte schreibt."
   },
   "inScheme": [
     {

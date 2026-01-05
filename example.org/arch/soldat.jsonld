@@ -2,10 +2,10 @@
   "id": "https://example.org/arch/soldat",
   "type": "Concept",
   "prefLabel": {
-    "de": "Restaurator*in (archäologisch)"
+    "de": "Soldat*in"
   },
   "definition": {
-    "de": "Person, die für die Erhaltung und Wiederherstellung von archäologischen Objekten verantwortlich ist."
+    "de": "Angehörige*r der Streitkräfte."
   },
   "inScheme": [
     {

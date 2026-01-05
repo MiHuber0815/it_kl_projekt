@@ -2,15 +2,15 @@
   "id": "https://example.org/arch/künstler",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kolonialbeamter*in"
+    "de": "Künstler*in"
   },
   "altLabel": {
     "de": [
-      "Kolonialverwalter*in"
+      "Kunstschaffende*r"
     ]
   },
   "definition": {
-    "de": "Vertreter*in einer Kolonialmacht, die administrative oder politische Aufgaben in Kolonien wahrnahm."
+    "de": "Person, die künstlerische Werke schafft, oft mit Bezug zu historischen oder archäologischen Themen."
   },
   "inScheme": [
     {
