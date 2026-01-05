@@ -41,8 +41,14 @@ arch:berufsrolle a skos:Concept ;
 {% for concept in concepts -%}
 arch:{{ concept}} a skos:Concept ;
 {% for verb, value in concepts[concept].items() -%}
-    {% if value is not none -%}
+    {% if value is iterable -%}
+    {% if value is string -%}
     {{verb}} "{{ value }}"{% if verb in statics %}@de{% endif %} ;
+    {% else -%}
+    {% for val in value -%}
+    {{verb}} "{{ val }}"{% if verb in statics %}@de{% endif %} ;
+    {% endfor -%}
+    {% endif -%}
     {% endif -%}
 {% endfor -%}
     skos:inScheme arch: .
