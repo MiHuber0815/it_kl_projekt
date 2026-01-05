@@ -2,16 +2,15 @@
   "id": "https://example.org/arch/militärangehörige",
   "type": "Concept",
   "prefLabel": {
-    "de": "Militärangehörige*r"
+    "de": "Mathematiker*in"
+  },
+  "altLabel": {
+    "de": [
+      "Rechenkundige*r"
+    ]
   },
   "definition": {
-    "de": "Angehörige*r der Streitkräfte."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die sich mit der Erforschung von Zahlen, Strukturen und mathematischen Modellen beschäftigt."
   },
   "inScheme": [
     {

@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/historiker",
   "type": "Concept",
   "prefLabel": {
-    "de": "Historiker*in"
+    "de": "Geophysiker*in"
   },
   "altLabel": {
     "de": [
-      "Geschichtswissenschaftler*in"
+      "Erdphysiker*in"
     ]
   },
   "definition": {
-    "de": "Person, die historische Quellen analysiert und interpretiert, um die Vergangenheit zu rekonstruieren."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die sich mit der Anwendung physikalischer Methoden auf die Erforschung der Erde beschäftigt."
   },
   "inScheme": [
     {

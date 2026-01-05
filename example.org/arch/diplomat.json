@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/diplomat",
   "type": "Concept",
   "prefLabel": {
-    "de": "Diplomat*in"
+    "de": "Bibliothekar*in"
   },
   "altLabel": {
     "de": [
-      "Gesandte*r"
+      "Bibliotheksfachkraft"
     ]
   },
   "definition": {
-    "de": "Vertreter*in eines Staates in internationalen Beziehungen."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die für die Verwaltung, Erschließung und Vermittlung von Bibliotheksbeständen zuständig ist."
   },
   "inScheme": [
     {

@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/kartograf",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kartograf*in"
+    "de": "Jurist*in"
   },
   "altLabel": {
     "de": [
-      "Kartenzeichner*in"
+      "Rechtswissenschaftler*in"
     ]
   },
   "definition": {
-    "de": "Person, die geografische Informationen sammelt, analysiert und in Kartenform darstellt."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Fachperson mit juristischer Ausbildung, die in rechtlichen Fragen berät oder entscheidet."
   },
   "inScheme": [
     {

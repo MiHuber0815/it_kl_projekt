@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/archivar",
   "type": "Concept",
   "prefLabel": {
-    "de": "Archivar*in"
+    "de": "Archäozoologe*in"
   },
   "altLabel": {
     "de": [
-      "Archivar*in"
+      "Paläozoologe*in"
     ]
   },
   "definition": {
-    "de": "Person, die für die Erhaltung, Erschließung und Bereitstellung von Archivalien zuständig ist."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die Knochen und andere tierische Überreste analysiert, um Rückschlüsse auf Umwelt, Ernährung und Kultur zu ziehen."
   },
   "inScheme": [
     {

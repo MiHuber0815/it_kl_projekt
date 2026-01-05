@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/landwirt",
   "type": "Concept",
   "prefLabel": {
-    "de": "Landwirt*in"
+    "de": "Kurator*in"
   },
   "altLabel": {
     "de": [
-      "Bauer/Bäuerin"
+      "Ausstellungsleiter*in"
     ]
   },
   "definition": {
-    "de": "Person, die in der Landwirtschaft tätig ist."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Fachperson, die Sammlungen verwaltet, ausstellt und wissenschaftlich aufbereitet."
   },
   "inScheme": [
     {

@@ -1,22 +1,16 @@
 {
-  "id": "https://example.org/arch/kolonialbeamter",
+  "id": "https://example.org/arch/49",
   "type": "Concept",
   "prefLabel": {
-    "de": "Kolonialbeamter*in"
+    "de": "Vermessungsingenieur*in"
   },
   "altLabel": {
     "de": [
-      "Kolonialverwalter*in"
+      "Vermessungstechniker*in"
     ]
   },
   "definition": {
-    "de": "Vertreter*in einer Kolonialmacht, die administrative oder politische Aufgaben in Kolonien wahrnahm."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Fachperson, die Vermessungen durchführt und geografische Daten erfasst."
   },
   "inScheme": [
     {

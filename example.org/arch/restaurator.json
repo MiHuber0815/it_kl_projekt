@@ -2,16 +2,15 @@
   "id": "https://example.org/arch/restaurator",
   "type": "Concept",
   "prefLabel": {
-    "de": "Restaurator*in (archäologisch)"
+    "de": "Philologe*in"
+  },
+  "altLabel": {
+    "de": [
+      "Sprachforscher*in"
+    ]
   },
   "definition": {
-    "de": "Person, die für die Erhaltung und Wiederherstellung von archäologischen Objekten verantwortlich ist."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die sich mit der Analyse, Interpretation und Edition historischer Texte beschäftigt."
   },
   "inScheme": [
     {

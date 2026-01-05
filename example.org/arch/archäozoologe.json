@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/archäozoologe",
   "type": "Concept",
   "prefLabel": {
-    "de": "Archäozoologe*in"
+    "de": "Archäobotaniker*in"
   },
   "altLabel": {
     "de": [
-      "Paläozoologe*in"
+      "Paläobotaniker*in"
     ]
   },
   "definition": {
-    "de": "Person, die Knochen und andere tierische Überreste analysiert, um Rückschlüsse auf Umwelt, Ernährung und Kultur zu ziehen."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die pflanzliche Überreste aus archäologischen Funden analysiert, um Rückschlüsse auf Umwelt, Ernährung und Kultur zu ziehen."
   },
   "inScheme": [
     {

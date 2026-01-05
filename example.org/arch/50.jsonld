@@ -1,22 +1,16 @@
 {
-  "id": "https://example.org/arch/offizier",
+  "id": "https://example.org/arch/50",
   "type": "Concept",
   "prefLabel": {
-    "de": "Offizier*in"
+    "de": "Grafiker*in"
   },
   "altLabel": {
     "de": [
-      "Militärführer*in"
+      "Zeichner*in"
     ]
   },
   "definition": {
-    "de": "Angehörige*r der Streitkräfte mit Führungsaufgaben."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die grafische Werke schafft oder technisch umsetzt."
   },
   "inScheme": [
     {

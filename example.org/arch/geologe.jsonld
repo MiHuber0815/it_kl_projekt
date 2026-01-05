@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/geologe",
   "type": "Concept",
   "prefLabel": {
-    "de": "Geologe*in"
+    "de": "Geistliche*r"
   },
   "altLabel": {
     "de": [
-      "Erdwissenschaftler*in"
+      "Kleriker*in"
     ]
   },
   "definition": {
-    "de": "Person, die Gesteine, Mineralien und die Entwicklung der Erde untersucht, oft im Zusammenhang mit archäologischen Fundstätten."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Vertreter*in einer religiösen Institution."
   },
   "inScheme": [
     {

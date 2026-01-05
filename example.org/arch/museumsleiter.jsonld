@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/museumsleiter",
   "type": "Concept",
   "prefLabel": {
-    "de": "Museumsleiter*in"
+    "de": "Mediziner*in"
   },
   "altLabel": {
     "de": [
-      "Museumsdirektor*in"
+      "Arzt/Ärztin"
     ]
   },
   "definition": {
-    "de": "Fachperson, die für die strategische und operative Führung eines Museums verantwortlich ist."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Fachperson, die sich mit der Prävention, Diagnose und Behandlung von Krankheiten beschäftigt."
   },
   "inScheme": [
     {

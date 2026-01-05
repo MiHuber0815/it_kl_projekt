@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/botaniker",
   "type": "Concept",
   "prefLabel": {
-    "de": "Botaniker*in"
+    "de": "Bauarbeiter*in"
   },
   "altLabel": {
     "de": [
-      "Pflanzenkundler*in"
+      "Bauhandwerker*in"
     ]
   },
   "definition": {
-    "de": "Person, die sich mit dem Studium von Pflanzen, ihrer Systematik, Physiologie und Ökologie beschäftigt."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Fachkraft, die handwerkliche Tätigkeiten auf Baustellen ausführt."
   },
   "inScheme": [
     {

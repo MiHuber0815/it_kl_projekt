@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/mediziner",
   "type": "Concept",
   "prefLabel": {
-    "de": "Mediziner*in"
+    "de": "Linguist*in"
   },
   "altLabel": {
     "de": [
-      "Arzt/Ärztin"
+      "Sprachwissenschaftler*in"
     ]
   },
   "definition": {
-    "de": "Fachperson, die sich mit der Prävention, Diagnose und Behandlung von Krankheiten beschäftigt."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die sich mit der Struktur, Geschichte und Verwendung von Sprachen beschäftigt."
   },
   "inScheme": [
     {

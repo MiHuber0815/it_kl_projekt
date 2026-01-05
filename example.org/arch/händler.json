@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/händler",
   "type": "Concept",
   "prefLabel": {
-    "de": "Händler*in"
+    "de": "Journalist*in"
   },
   "altLabel": {
     "de": [
-      "Kaufmann/Kauffrau"
+      "Reporter*in"
     ]
   },
   "definition": {
-    "de": "Person, die Waren oder Dienstleistungen kauft und verkauft."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Fachperson, die Nachrichten und Berichte recherchiert, aufbereitet und veröffentlicht."
   },
   "inScheme": [
     {

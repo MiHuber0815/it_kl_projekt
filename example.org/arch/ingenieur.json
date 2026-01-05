@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/ingenieur",
   "type": "Concept",
   "prefLabel": {
-    "de": "Ingenieur*in"
+    "de": "Grabungstechniker*in"
   },
   "altLabel": {
     "de": [
-      "Techniker*in"
+      "Ausgrabungstechniker*in"
     ]
   },
   "definition": {
-    "de": "Fachperson mit technischer Ausbildung, die oft in der Planung und Umsetzung von Bauprojekten oder technischen Lösungen tätig ist."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die für die technische Durchführung und Dokumentation von archäologischen Grabungen ausgebildet und verantwortlich ist."
   },
   "inScheme": [
     {

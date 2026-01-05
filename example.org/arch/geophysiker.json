@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/geophysiker",
   "type": "Concept",
   "prefLabel": {
-    "de": "Geophysiker*in"
+    "de": "Geograf*in"
   },
   "altLabel": {
     "de": [
-      "Erdphysiker*in"
+      "Erdkundler*in"
     ]
   },
   "definition": {
-    "de": "Person, die sich mit der Anwendung physikalischer Methoden auf die Erforschung der Erde beschäftigt."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die sich mit der Beschreibung und Analyse der räumlichen Strukturen und Prozesse auf der Erde beschäftigt."
   },
   "inScheme": [
     {

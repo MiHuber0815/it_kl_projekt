@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/grabungstechniker",
   "type": "Concept",
   "prefLabel": {
-    "de": "Grabungstechniker*in"
+    "de": "Geologe*in"
   },
   "altLabel": {
     "de": [
-      "Ausgrabungstechniker*in"
+      "Erdwissenschaftler*in"
     ]
   },
   "definition": {
-    "de": "Person, die für die technische Durchführung und Dokumentation von archäologischen Grabungen ausgebildet und verantwortlich ist."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die Gesteine, Mineralien und die Entwicklung der Erde untersucht, oft im Zusammenhang mit archäologischen Fundstätten."
   },
   "inScheme": [
     {

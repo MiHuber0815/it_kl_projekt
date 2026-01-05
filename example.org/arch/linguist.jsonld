@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/linguist",
   "type": "Concept",
   "prefLabel": {
-    "de": "Linguist*in"
+    "de": "Landwirt*in"
   },
   "altLabel": {
     "de": [
-      "Sprachwissenschaftler*in"
+      "Bauer/Bäuerin"
     ]
   },
   "definition": {
-    "de": "Person, die sich mit der Struktur, Geschichte und Verwendung von Sprachen beschäftigt."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die in der Landwirtschaft tätig ist."
   },
   "inScheme": [
     {

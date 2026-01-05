@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/schriftsteller",
   "type": "Concept",
   "prefLabel": {
-    "de": "Schriftsteller*in"
+    "de": "Politiker*in"
   },
   "altLabel": {
     "de": [
-      "Autor*in"
+      "Staatsfrau/Staatsmann"
     ]
   },
   "definition": {
-    "de": "Fachperson, die Romane, Erzählungen oder andere literarische Texte schreibt."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Vertreter*in des öffentlichen Lebens, die politische Entscheidungen trifft oder beeinflusst."
   },
   "inScheme": [
     {

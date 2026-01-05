@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/vermessungsingenieur",
   "type": "Concept",
   "prefLabel": {
-    "de": "Vermessungsingenieur*in"
+    "de": "Theolog*in"
   },
   "altLabel": {
     "de": [
-      "Vermessungstechniker*in"
+      "Religionswissenschaftler*in"
     ]
   },
   "definition": {
-    "de": "Fachperson, die Vermessungen durchführt und geografische Daten erfasst."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Person, die sich mit der systematischen Erforschung von Religion, Glauben und religiösen Praktiken beschäftigt."
   },
   "inScheme": [
     {

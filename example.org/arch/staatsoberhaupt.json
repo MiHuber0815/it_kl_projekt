@@ -2,21 +2,15 @@
   "id": "https://example.org/arch/staatsoberhaupt",
   "type": "Concept",
   "prefLabel": {
-    "de": "Staatsoberhaupt"
+    "de": "Schriftsteller*in"
   },
   "altLabel": {
     "de": [
-      "Herrscher*in"
+      "Autor*in"
     ]
   },
   "definition": {
-    "de": "Person an der Spitze der Exekutive eines Staates."
-  },
-  "broader": {
-    "id": "https://example.org/arch/berufsrolle",
-    "prefLabel": {
-      "de": "Berufsrolle"
-    }
+    "de": "Fachperson, die Romane, Erzählungen oder andere literarische Texte schreibt."
   },
   "inScheme": [
     {
