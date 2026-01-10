@@ -121,22 +121,25 @@ skos:prefLabel "Archäobotaniker*in"@de ;
         dct:description "Wissenschaftler*in, die sich mit der Erforschung von Pflanzenresten aus archäologischen Kontexten beschäftigt."@de ;
         skos:definition "Person, die pflanzliche Überreste aus archäologischen Funden analysiert, um Rückschlüsse auf Umwelt, Ernährung und Kultur zu ziehen."@de ;
         skos:broader "archäologe" ;
-        skos:inScheme arch: .
+    skos:broader "botaniker" ;
+    skos:inScheme arch: .
 arch:archäologe a skos:Concept ;
 skos:prefLabel "Archäologe*in"@de ;
         dct:description "Wissenschaftler*in, die sich mit der Erforschung materieller Hinterlassenschaften vergangener Kulturen beschäftigt."@de ;
         skos:definition "Person, die durch Ausgrabungen und Analysen von archäologischen Funden die Entwicklung des Menschen und die Geschichte und Kultur vergangener Gesellschaften rekonstruiert."@de ;
         skos:scopeNote "Hier als Sammelbegriff für die verschiedenen Disziplinen der Archäologie." ;
         skos:broader "berufsrolle" ;
-        skos:inScheme arch: .
+        skos:narrower "archäobotaniker" ;
+    skos:narrower "archäozoologe" ;
+    skos:narrower "landesarchäologe" ;
+    skos:inScheme arch: .
 arch:archäozoologe a skos:Concept ;
 skos:prefLabel "Archäozoologe*in"@de ;
         skos:altLabel "Paläozoologe*in"@de ;
         dct:description "Wissenschaftler*in, die tierische Überreste aus archäologischen Kontexten untersucht."@de ;
         skos:definition "Person, die Knochen und andere tierische Überreste analysiert, um Rückschlüsse auf Umwelt, Ernährung und Kultur zu ziehen."@de ;
         skos:broader "archäologe" ;
-    skos:broader "zoologe" ;
-    skos:inScheme arch: .
+        skos:inScheme arch: .
 arch:architekt a skos:Concept ;
 skos:prefLabel "Architekt*in"@de ;
         skos:altLabel "Baumeister*in"@de ;
@@ -400,7 +403,9 @@ skos:prefLabel "Politiker*in"@de ;
         dct:description "Person, die in der Politik tätig ist."@de ;
         skos:definition "Vertreter*in des öffentlichen Lebens, die politische Entscheidungen trifft oder beeinflusst."@de ;
         skos:broader "berufsrolle" ;
-        skos:inScheme arch: .
+        skos:narrower "staatsoberhaupt" ;
+    skos:narrower "diplomat" ;
+    skos:inScheme arch: .
 arch:restaurator a skos:Concept ;
 skos:prefLabel "Restaurator*in (archäologisch)"@de ;
         dct:description "Fachperson, die archäologische Funde konserviert und restauriert."@de ;
