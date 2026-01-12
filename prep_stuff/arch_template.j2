@@ -48,7 +48,11 @@ arch:{{ concept}} a skos:Concept ;
         {% endif -%}
     {% if value is not string and value is not mapping -%}
     {% for val in value -%}
-    {{verb}} "{{ val }}"{% if verb in statics %}@de{% endif %} ;
+        {% if  verb in ["skos:narrower", "skos:broader"] -%}
+            {{verb}} arch:{{ val }} ;
+        {% else -%}
+            {{verb}} "{{ val }}"{% if verb in statics %}@de{% endif %} ;
+        {% endif -%}
     {% endfor -%}
     {% endif -%}
     {% endif -%}

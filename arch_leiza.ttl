@@ -120,19 +120,19 @@ skos:prefLabel "Archäobotaniker*in"@de ;
         skos:altLabel "Paläobotaniker*in"@de ;
         dct:description "Wissenschaftler*in, die sich mit der Erforschung von Pflanzenresten aus archäologischen Kontexten beschäftigt."@de ;
         skos:definition "Person, die pflanzliche Überreste aus archäologischen Funden analysiert, um Rückschlüsse auf Umwelt, Ernährung und Kultur zu ziehen."@de ;
-        skos:broader "archäologe" ;
-    skos:broader "botaniker" ;
-    skos:inScheme arch: .
+        skos:broader arch:archäologe ;
+        skos:broader arch:botaniker ;
+        skos:inScheme arch: .
 arch:archäologe a skos:Concept ;
 skos:prefLabel "Archäologe*in"@de ;
         dct:description "Wissenschaftler*in, die sich mit der Erforschung materieller Hinterlassenschaften vergangener Kulturen beschäftigt."@de ;
         skos:definition "Person, die durch Ausgrabungen und Analysen von archäologischen Funden die Entwicklung des Menschen und die Geschichte und Kultur vergangener Gesellschaften rekonstruiert."@de ;
         skos:scopeNote "Hier als Sammelbegriff für die verschiedenen Disziplinen der Archäologie." ;
         skos:broader "berufsrolle" ;
-        skos:narrower "archäobotaniker" ;
-    skos:narrower "archäozoologe" ;
-    skos:narrower "landesarchäologe" ;
-    skos:inScheme arch: .
+        skos:narrower arch:archäobotaniker ;
+        skos:narrower arch:archäozoologe ;
+        skos:narrower arch:landesarchäologe ;
+        skos:inScheme arch: .
 arch:archäozoologe a skos:Concept ;
 skos:prefLabel "Archäozoologe*in"@de ;
         skos:altLabel "Paläozoologe*in"@de ;
@@ -365,9 +365,9 @@ skos:prefLabel "Militärangehörige*r"@de ;
         skos:definition "Angehörige*r der Streitkräfte."@de ;
         skos:scopeNote "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. " ;
         skos:broader "berufsrolle" ;
-        skos:narrower "soldat" ;
-    skos:narrower "offizier" ;
-    skos:inScheme arch: .
+        skos:narrower arch:soldat ;
+        skos:narrower arch:offizier ;
+        skos:inScheme arch: .
 arch:museumsleiter a skos:Concept ;
 skos:prefLabel "Museumsleiter*in"@de ;
         skos:altLabel "Museumsdirektor*in"@de ;
@@ -403,9 +403,9 @@ skos:prefLabel "Politiker*in"@de ;
         dct:description "Person, die in der Politik tätig ist."@de ;
         skos:definition "Vertreter*in des öffentlichen Lebens, die politische Entscheidungen trifft oder beeinflusst."@de ;
         skos:broader "berufsrolle" ;
-        skos:narrower "staatsoberhaupt" ;
-    skos:narrower "diplomat" ;
-    skos:inScheme arch: .
+        skos:narrower arch:staatsoberhaupt ;
+        skos:narrower arch:diplomat ;
+        skos:inScheme arch: .
 arch:restaurator a skos:Concept ;
 skos:prefLabel "Restaurator*in (archäologisch)"@de ;
         dct:description "Fachperson, die archäologische Funde konserviert und restauriert."@de ;
