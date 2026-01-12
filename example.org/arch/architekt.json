@@ -12,6 +12,11 @@
   "definition": {
     "de": "Fachperson für die Planung, Gestaltung und Überwachung von Bauprojekten, oft mit Bezug zu historischen oder archäologischen Kontexten."
   },
+  "scopeNote": {
+    "de": [
+      "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."
+    ]
+  },
   "broader": {
     "id": "https://example.org/arch/berufsrolle",
     "prefLabel": {

@@ -7,6 +7,11 @@
   "definition": {
     "de": "Angehörige*r der Streitkräfte."
   },
+  "scopeNote": {
+    "de": [
+      "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "
+    ]
+  },
   "narrower": [
     {
       "id": "https://example.org/arch/offizier",

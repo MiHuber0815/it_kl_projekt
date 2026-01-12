@@ -12,6 +12,11 @@
   "definition": {
     "de": "Fachperson, die Vermessungen durchführt und geografische Daten erfasst."
   },
+  "scopeNote": {
+    "de": [
+      "Bei Vermessungsarbeiten wurden häufig archäologische Fundstätten entdeckt und dokumentiert. "
+    ]
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

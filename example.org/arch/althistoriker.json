@@ -7,6 +7,11 @@
   "definition": {
     "de": "Wissenschaftler*in, die sich mit der politischen, sozialen und kulturellen Geschichte der griechisch-römischen Antike beschäftigt."
   },
+  "scopeNote": {
+    "de": [
+      "Althistoriker*innen haben sich außer mit Texten oft auch mit materiellen Hinterlassenschaften beschäftigt."
+    ]
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

@@ -12,6 +12,11 @@
   "definition": {
     "de": "Vertreter*in einer religiösen Institution."
   },
+  "scopeNote": {
+    "de": [
+      "Geistliche haben sich häufig mit der Altertumskunde beschäftigt."
+    ]
+  },
   "broader": {
     "id": "https://example.org/arch/berufsrolle",
     "prefLabel": {

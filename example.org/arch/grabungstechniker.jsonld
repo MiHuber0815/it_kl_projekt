@@ -12,6 +12,11 @@
   "definition": {
     "de": "Person, die für die technische Durchführung und Dokumentation von archäologischen Grabungen ausgebildet und verantwortlich ist."
   },
+  "scopeNote": {
+    "de": [
+      "Professionalierung erst in jüngerer Zeit, aber von Anfang an spezialisierte Personen tätig."
+    ]
+  },
   "broader": {
     "id": "https://example.org/arch/berufsrolle",
     "prefLabel": {

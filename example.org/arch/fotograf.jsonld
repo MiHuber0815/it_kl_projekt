@@ -12,6 +12,11 @@
   "definition": {
     "de": "Fachperson für die Anfertigung von fotografischen Aufnahmen."
   },
+  "scopeNote": {
+    "de": [
+      "Hier im Zusammenhang mit der Dokumentation archäologischer Funde und Befunde."
+    ]
+  },
   "broader": {
     "id": "https://example.org/arch/berufsrolle",
     "prefLabel": {

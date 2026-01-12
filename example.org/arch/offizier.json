@@ -12,6 +12,11 @@
   "definition": {
     "de": "Angehörige*r der Streitkräfte mit Führungsaufgaben."
   },
+  "scopeNote": {
+    "de": [
+      "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "
+    ]
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

@@ -12,6 +12,11 @@
   "definition": {
     "de": "Person an der Spitze der Exekutive eines Staates."
   },
+  "scopeNote": {
+    "de": [
+      "Staatsoberhäupter gehörten zu den Sammlern archäologischer Objekte."
+    ]
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

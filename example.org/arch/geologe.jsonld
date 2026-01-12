@@ -12,6 +12,11 @@
   "definition": {
     "de": "Person, die Gesteine, Mineralien und die Entwicklung der Erde untersucht, oft im Zusammenhang mit archäologischen Fundstätten."
   },
+  "scopeNote": {
+    "de": [
+      "Aus der Geologie kommen methodische Ansätze der archäologischen Stratigrafie."
+    ]
+  },
   "broader": {
     "id": "https://example.org/arch/berufsrolle",
     "prefLabel": {

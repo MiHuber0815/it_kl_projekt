@@ -12,6 +12,11 @@
   "definition": {
     "de": "Person, die grafische Werke schafft oder technisch umsetzt."
   },
+  "scopeNote": {
+    "de": [
+      "Hier mit Bezug zu historischen oder archäologischen Objekten und Inhalten."
+    ]
+  },
   "broader": {
     "id": "https://example.org/arch/berufsrolle",
     "prefLabel": {

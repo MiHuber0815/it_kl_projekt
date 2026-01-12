@@ -12,6 +12,11 @@
   "definition": {
     "de": "Spezialist*in für die Sammlung, die Pflege und den Handel von Büchern, Antiquitäten und seltenen Gegenständen mit historischer oder kultureller Bedeutung."
   },
+  "scopeNote": {
+    "de": [
+      "Im Antikenhandel finden sich unter anderem legal oder illegal erworbene aus archäologischen Stätten stammende Objekte."
+    ]
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

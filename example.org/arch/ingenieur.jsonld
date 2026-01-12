@@ -12,6 +12,11 @@
   "definition": {
     "de": "Fachperson mit technischer Ausbildung, die oft in der Planung und Umsetzung von Bauprojekten oder technischen Lösungen tätig ist."
   },
+  "scopeNote": {
+    "de": [
+      "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."
+    ]
+  },
   "narrower": [
     {
       "id": "https://example.org/arch/vermessungsingenieur",

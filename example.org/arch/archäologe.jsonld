@@ -7,6 +7,11 @@
   "definition": {
     "de": "Person, die durch Ausgrabungen und Analysen von archäologischen Funden die Entwicklung des Menschen und die Geschichte und Kultur vergangener Gesellschaften rekonstruiert."
   },
+  "scopeNote": {
+    "de": [
+      "Hier als Sammelbegriff für die verschiedenen Disziplinen der Archäologie."
+    ]
+  },
   "narrower": [
     {
       "id": "https://example.org/arch/archäobotaniker",

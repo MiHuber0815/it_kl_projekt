@@ -12,6 +12,11 @@
   "definition": {
     "de": "Person, die in der Landwirtschaft tätig ist."
   },
+  "scopeNote": {
+    "de": [
+      "Bei landwirtschaftlichen Arbeiten kommen häufig archäologische Funde und Befund zu tage."
+    ]
+  },
   "broader": {
     "id": "https://example.org/arch/berufsrolle",
     "prefLabel": {

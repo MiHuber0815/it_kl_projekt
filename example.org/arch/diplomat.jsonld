@@ -12,6 +12,11 @@
   "definition": {
     "de": "Vertreter*in eines Staates in internationalen Beziehungen."
   },
+  "scopeNote": {
+    "de": [
+      "Oft mit Bezug zu kulturellen oder historischen Missionen."
+    ]
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",
