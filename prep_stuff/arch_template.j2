@@ -43,8 +43,12 @@ arch:{{ concept}} a skos:Concept ;
 {% for verb, value in concepts[concept].items() -%}
     {% if value is  not none -%}
     {% if value is iterable -%}
-        {% if value is string -%}
+        {% if value is string -%} 
+            {% if  verb in ["skos:narrower", "skos:broader"] -%}
+            {{verb}} arch:{{ value }} ;
+        {% else -%}
             {{verb}} "{{ value }}"{% if verb in statics %}@de{% endif %} ;
+        {% endif -%}
         {% endif -%}
     {% if value is not string and value is not mapping -%}
     {% for val in value -%}
