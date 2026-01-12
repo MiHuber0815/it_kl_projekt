@@ -14,12 +14,24 @@
   },
   "narrower": [
     {
+      "id": "https://example.org/arch/diplomat",
+      "prefLabel": {
+        "de": "Diplomat*in"
+      }
+    },
+    {
       "id": "https://example.org/arch/staatsoberhaupt",
       "prefLabel": {
         "de": "Staatsoberhaupt"
       }
     }
   ],
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

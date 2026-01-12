@@ -12,6 +12,12 @@
   "definition": {
     "de": "Person, die sich mit der Beschreibung und Analyse der räumlichen Strukturen und Prozesse auf der Erde beschäftigt."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

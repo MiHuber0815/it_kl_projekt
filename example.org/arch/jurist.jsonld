@@ -12,6 +12,12 @@
   "definition": {
     "de": "Fachperson mit juristischer Ausbildung, die in rechtlichen Fragen berät oder entscheidet."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

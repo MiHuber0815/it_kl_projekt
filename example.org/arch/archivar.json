@@ -12,6 +12,12 @@
   "definition": {
     "de": "Person, die für die Erhaltung, Erschließung und Bereitstellung von Archivalien zuständig ist."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

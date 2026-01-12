@@ -7,6 +7,12 @@
   "definition": {
     "de": "Person, die für die Erhaltung und Wiederherstellung von archäologischen Objekten verantwortlich ist."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

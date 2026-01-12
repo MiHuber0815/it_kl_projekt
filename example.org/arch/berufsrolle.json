@@ -72,6 +72,18 @@
       }
     },
     {
+      "id": "https://example.org/arch/botaniker",
+      "prefLabel": {
+        "de": "Botaniker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/diplomat",
+      "prefLabel": {
+        "de": "Diplomat*in"
+      }
+    },
+    {
       "id": "https://example.org/arch/ethnologe",
       "prefLabel": {
         "de": "Ethnologe*in"
@@ -114,6 +126,18 @@
       }
     },
     {
+      "id": "https://example.org/arch/historiker",
+      "prefLabel": {
+        "de": "Historiker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/ingenieur",
+      "prefLabel": {
+        "de": "Ingenieur*in"
+      }
+    },
+    {
       "id": "https://example.org/arch/journalist",
       "prefLabel": {
         "de": "Journalist*in"
@@ -123,6 +147,12 @@
       "id": "https://example.org/arch/jurist",
       "prefLabel": {
         "de": "Jurist*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/händler",
+      "prefLabel": {
+        "de": "Händler*in"
       }
     },
     {

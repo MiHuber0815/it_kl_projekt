@@ -12,6 +12,12 @@
   "definition": {
     "de": "Person, die Gesteine, Mineralien und die Entwicklung der Erde untersucht, oft im Zusammenhang mit archäologischen Fundstätten."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

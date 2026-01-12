@@ -12,6 +12,12 @@
   "definition": {
     "de": "Fachperson, die Sammlungen verwaltet, ausstellt und wissenschaftlich aufbereitet."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

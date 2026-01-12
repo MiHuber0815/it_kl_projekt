@@ -12,6 +12,12 @@
   "definition": {
     "de": "Fachkraft, die handwerkliche Tätigkeiten auf Baustellen ausführt."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

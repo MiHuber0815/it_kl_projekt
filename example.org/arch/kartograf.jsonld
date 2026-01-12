@@ -12,6 +12,12 @@
   "definition": {
     "de": "Person, die geografische Informationen sammelt, analysiert und in Kartenform darstellt."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

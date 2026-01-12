@@ -7,6 +7,12 @@
   "definition": {
     "de": "Person, die sich mit der biologischen und kulturellen Entwicklung des Menschen beschäftigt."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

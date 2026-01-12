@@ -12,6 +12,12 @@
   "definition": {
     "de": "Person, die fossile Überreste von Pflanzen, Tieren und anderen Organismen untersucht, um die Entwicklung des Lebens zu rekonstruieren."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

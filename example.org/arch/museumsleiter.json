@@ -12,6 +12,12 @@
   "definition": {
     "de": "Fachperson, die für die strategische und operative Führung eines Museums verantwortlich ist."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

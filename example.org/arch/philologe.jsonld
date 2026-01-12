@@ -12,6 +12,12 @@
   "definition": {
     "de": "Person, die sich mit der Analyse, Interpretation und Edition historischer Texte beschäftigt."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

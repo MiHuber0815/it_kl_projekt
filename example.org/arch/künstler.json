@@ -12,6 +12,12 @@
   "definition": {
     "de": "Person, die künstlerische Werke schafft, oft mit Bezug zu historischen oder archäologischen Themen."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

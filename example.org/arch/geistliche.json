@@ -12,6 +12,12 @@
   "definition": {
     "de": "Vertreter*in einer religiösen Institution."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

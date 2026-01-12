@@ -12,6 +12,12 @@
   "definition": {
     "de": "Fachperson, die sich mit der Prävention, Diagnose und Behandlung von Krankheiten beschäftigt."
   },
+  "broader": {
+    "id": "https://example.org/arch/berufsrolle",
+    "prefLabel": {
+      "de": "Berufsrolle"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",
