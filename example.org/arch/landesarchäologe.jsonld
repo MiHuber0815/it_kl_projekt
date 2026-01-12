@@ -12,6 +12,12 @@
   "definition": {
     "de": "Person, die in einem Bundesland für die archäologische Denkmalpflege und Forschung verantwortlich ist."
   },
+  "broader": {
+    "id": "https://example.org/arch/archäologe",
+    "prefLabel": {
+      "de": "Archäologe*in"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

@@ -17,6 +17,12 @@
       "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "
     ]
   },
+  "broader": {
+    "id": "https://example.org/arch/militärangehörige",
+    "prefLabel": {
+      "de": "Militärangehörige*r"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

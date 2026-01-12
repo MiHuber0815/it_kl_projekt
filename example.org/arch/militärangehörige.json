@@ -14,15 +14,15 @@
   },
   "narrower": [
     {
-      "id": "https://example.org/arch/offizier",
-      "prefLabel": {
-        "de": "Offizier*in"
-      }
-    },
-    {
       "id": "https://example.org/arch/soldat",
       "prefLabel": {
         "de": "Soldat*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/offizier",
+      "prefLabel": {
+        "de": "Offizier*in"
       }
     }
   ],

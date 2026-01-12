@@ -17,6 +17,12 @@
       "Im Antikenhandel finden sich unter anderem legal oder illegal erworbene aus archäologischen Stätten stammende Objekte."
     ]
   },
+  "broader": {
+    "id": "https://example.org/arch/händler",
+    "prefLabel": {
+      "de": "Händler*in"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

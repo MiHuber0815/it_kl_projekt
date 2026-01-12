@@ -12,6 +12,12 @@
   "definition": {
     "de": "Person, die Knochen und andere tierische Überreste analysiert, um Rückschlüsse auf Umwelt, Ernährung und Kultur zu ziehen."
   },
+  "broader": {
+    "id": "https://example.org/arch/archäologe",
+    "prefLabel": {
+      "de": "Archäologe*in"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

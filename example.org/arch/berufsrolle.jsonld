@@ -12,39 +12,15 @@
       }
     },
     {
-      "id": "https://example.org/arch/althistoriker",
-      "prefLabel": {
-        "de": "Althistoriker*in"
-      }
-    },
-    {
       "id": "https://example.org/arch/anthropologe",
       "prefLabel": {
         "de": "Anthropologe*in"
       }
     },
     {
-      "id": "https://example.org/arch/antiquar",
-      "prefLabel": {
-        "de": "Antiquar*in"
-      }
-    },
-    {
-      "id": "https://example.org/arch/archäobotaniker",
-      "prefLabel": {
-        "de": "Archäobotaniker*in"
-      }
-    },
-    {
       "id": "https://example.org/arch/archäologe",
       "prefLabel": {
         "de": "Archäologe*in"
-      }
-    },
-    {
-      "id": "https://example.org/arch/archäozoologe",
-      "prefLabel": {
-        "de": "Archäozoologe*in"
       }
     },
     {
@@ -75,12 +51,6 @@
       "id": "https://example.org/arch/botaniker",
       "prefLabel": {
         "de": "Botaniker*in"
-      }
-    },
-    {
-      "id": "https://example.org/arch/diplomat",
-      "prefLabel": {
-        "de": "Diplomat*in"
       }
     },
     {
@@ -186,12 +156,6 @@
       }
     },
     {
-      "id": "https://example.org/arch/landesarchäologe",
-      "prefLabel": {
-        "de": "Landesarchäologe*in"
-      }
-    },
-    {
       "id": "https://example.org/arch/landwirt",
       "prefLabel": {
         "de": "Landwirt*in"
@@ -234,12 +198,6 @@
       }
     },
     {
-      "id": "https://example.org/arch/offizier",
-      "prefLabel": {
-        "de": "Offizier*in"
-      }
-    },
-    {
       "id": "https://example.org/arch/paläontologe",
       "prefLabel": {
         "de": "Paläontologe*in"
@@ -270,18 +228,6 @@
       }
     },
     {
-      "id": "https://example.org/arch/soldat",
-      "prefLabel": {
-        "de": "Soldat*in"
-      }
-    },
-    {
-      "id": "https://example.org/arch/staatsoberhaupt",
-      "prefLabel": {
-        "de": "Staatsoberhaupt"
-      }
-    },
-    {
       "id": "https://example.org/arch/theolog",
       "prefLabel": {
         "de": "Theolog*in"
@@ -294,15 +240,21 @@
       }
     },
     {
-      "id": "https://example.org/arch/vermessungsingenieur",
-      "prefLabel": {
-        "de": "Vermessungsingenieur*in"
-      }
-    },
-    {
       "id": "https://example.org/arch/grafiker",
       "prefLabel": {
         "de": "Grafiker*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/diplomat",
+      "prefLabel": {
+        "de": "Diplomat*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/staatsoberhaupt",
+      "prefLabel": {
+        "de": "Staatsoberhaupt"
       }
     }
   ],

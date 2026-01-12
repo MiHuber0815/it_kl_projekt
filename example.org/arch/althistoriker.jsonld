@@ -12,6 +12,12 @@
       "Althistoriker*innen haben sich außer mit Texten oft auch mit materiellen Hinterlassenschaften beschäftigt."
     ]
   },
+  "broader": {
+    "id": "https://example.org/arch/historiker",
+    "prefLabel": {
+      "de": "Historiker*in"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",

@@ -17,6 +17,12 @@
       "Bei Vermessungsarbeiten wurden häufig archäologische Fundstätten entdeckt und dokumentiert. "
     ]
   },
+  "broader": {
+    "id": "https://example.org/arch/ingenieur",
+    "prefLabel": {
+      "de": "Ingenieur*in"
+    }
+  },
   "inScheme": [
     {
       "id": "https://example.org/arch/",
