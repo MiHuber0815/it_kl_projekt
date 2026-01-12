@@ -36,6 +36,12 @@
       }
     },
     {
+      "id": "https://example.org/arch/archäologe",
+      "prefLabel": {
+        "de": "Archäologe*in"
+      }
+    },
+    {
       "id": "https://example.org/arch/archäozoologe",
       "prefLabel": {
         "de": "Archäozoologe*in"
@@ -186,6 +192,12 @@
       }
     },
     {
+      "id": "https://example.org/arch/militärangehörige",
+      "prefLabel": {
+        "de": "Militärangehörige*r"
+      }
+    },
+    {
       "id": "https://example.org/arch/museumsleiter",
       "prefLabel": {
         "de": "Museumsleiter*in"
@@ -207,6 +219,12 @@
       "id": "https://example.org/arch/philologe",
       "prefLabel": {
         "de": "Philologe*in"
+      }
+    },
+    {
+      "id": "https://example.org/arch/politiker",
+      "prefLabel": {
+        "de": "Politiker*in"
       }
     },
     {
