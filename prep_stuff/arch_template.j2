@@ -33,7 +33,9 @@ arch:ägyptischePhilologie a skos:Concept ;
 arch:berufsrolle a skos:Concept ;
     skos:prefLabel "Berufsrolle"@de;
     {% for concept in concepts -%}
+        {% if concept not in narrower_concepts -%}
     skos:narrower arch:{{ concept}} ;
+        {% endif -%}
     {% endfor -%}
     skos:topConceptOf arch: .
 
