@@ -4,9 +4,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 arch: a skos:ConceptScheme ;
-    dct:title "Vokabular Propyleum Vitae"@de;
+    dct:title "Vokabular Propylaeum-VITAE"@de;
     dct:creator "Annette Frey"@de,"Michael Huber"@de,"Birgit Lechner"@de;
-    dct:created "2025-12-22"^^xsd:date ;
+    dct:created "2026-01-30"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept arch:forschungstätigkeit, arch:studienfach, arch:berufsrolle .
 
@@ -80,21 +80,21 @@ skos:prefLabel "Ägyptologe*in"@de ;
         skos:altLabel "Ägyptenforscher*in"@de ;
         dct:description "Wissenschaftler*in, der/die das alte Ägypten erforscht."@de ;
         skos:definition "Person, die sich mit der Erforschung der Geschichte, Sprache, Kultur und materiellen Hinterlassenschaften des alten Ägypten beschäftigt."@de ;
-        skos:scopeNote "Die Ägpytologie hat sich vor der Vor- und Frühgeschichte als eigenes Fach etabliert."@de ;
+        skos:note "Die Ägpytologie hat sich vor der Vor- und Frühgeschichte als eigenes Fach etabliert."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:althistoriker a skos:Concept ;
 skos:prefLabel "Althistoriker*in"@de ;
         dct:description "Historiker*in, der/die sich auf die Alte Geschichte (griechisch-römische Antike) spezialisiert hat."@de ;
         skos:definition "Wissenschaftler*in, die sich mit der politischen, sozialen und kulturellen Geschichte der griechisch-römischen Antike beschäftigt."@de ;
-        skos:scopeNote "Althistoriker*innen haben sich außer mit Texten oft auch mit materiellen Hinterlassenschaften beschäftigt."@de ;
+        skos:note "Althistoriker*innen haben sich außer mit Texten oft auch mit materiellen Hinterlassenschaften beschäftigt."@de ;
         skos:broader arch:historiker ;
         skos:inScheme arch: .
 arch:anthropologe a skos:Concept ;
 skos:prefLabel "Anthropologe*in"@de ;
         dct:description "Wissenschaftler*in, der/die den Menschen und seine biologische Entwicklung auf Grundlage menschlicher Überreste erforscht."@de ;
         skos:definition "Person, die sich mit der biologischen und kulturellen Entwicklung des Menschen beschäftigt."@de ;
-        skos:scopeNote "Im Mittelpunkt stehen in diesem Kontext menschliche Skelette aus archäologischen Befunden."@de ;
+        skos:note "Im Mittelpunkt stehen in diesem Kontext menschliche Skelette aus archäologischen Befunden."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:antiquar a skos:Concept ;
@@ -102,7 +102,7 @@ skos:prefLabel "Antiquar*in"@de ;
         skos:altLabel "Antikenhändler*in, Antiquitätenhändler*in"@de ;
         dct:description "Ein Antiquar/eine Antiquarin beschäftigt sich mit dem Handel und der Bewertung von antiken und seltenen Objekten."@de ;
         skos:definition "Spezialist*in für die Sammlung, die Pflege und den Handel von Büchern, Antiquitäten und seltenen Gegenständen mit historischer oder kultureller Bedeutung."@de ;
-        skos:scopeNote "Im Antikenhandel finden sich unter anderem legal oder illegal erworbene aus archäologischen Stätten stammende Objekte."@de ;
+        skos:note "Im Antikenhandel finden sich unter anderem legal oder illegal erworbene aus archäologischen Stätten stammende Objekte."@de ;
         skos:broader arch:händler ;
         skos:inScheme arch: .
 arch:archäobotaniker a skos:Concept ;
@@ -117,7 +117,7 @@ arch:archäologe a skos:Concept ;
 skos:prefLabel "Archäologe*in"@de ;
         dct:description "Wissenschaftler*in, die sich mit der Erforschung materieller Hinterlassenschaften vergangener Kulturen beschäftigt."@de ;
         skos:definition "Person, die durch Ausgrabungen und Analysen von archäologischen Funden die Entwicklung des Menschen und die Geschichte und Kultur vergangener Gesellschaften rekonstruiert."@de ;
-        skos:scopeNote "Hier als Sammelbegriff für die verschiedenen Disziplinen der Archäologie."@de ;
+        skos:note "Hier als Sammelbegriff für die verschiedenen Disziplinen der Archäologie."@de ;
         skos:broader arch:berufsrolle ;
         skos:narrower arch:archäobotaniker ;
         skos:narrower arch:archäozoologe ;
@@ -135,7 +135,7 @@ skos:prefLabel "Architekt*in"@de ;
         skos:altLabel "Baumeister*in"@de ;
         dct:description "Person, die den Bau von Gebäuden und Anlagen plant, entwirft und beaufsichtigt."@de ;
         skos:definition "Fachperson für die Planung, Gestaltung und Überwachung von Bauprojekten, oft mit Bezug zu historischen oder archäologischen Kontexten."@de ;
-        skos:scopeNote "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."@de ;
+        skos:note "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:archivar a skos:Concept ;
@@ -150,7 +150,7 @@ skos:prefLabel "Bauarbeiter*in"@de ;
         skos:altLabel "Bauhandwerker*in"@de ;
         dct:description "Person, die auf einer Baustelle arbeitet."@de ;
         skos:definition "Fachkraft, die handwerkliche Tätigkeiten auf Baustellen ausführt."@de ;
-        skos:scopeNote "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."@de ;
+        skos:note "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:bibliothekar a skos:Concept ;
@@ -173,7 +173,7 @@ skos:prefLabel "Diplomat*in"@de ;
         skos:altLabel "Gesandte*r"@de ;
         dct:description "Person, die in der internationalen Diplomatie tätig ist."@de ;
         skos:definition "Vertreter*in eines Staates in internationalen Beziehungen."@de ;
-        skos:scopeNote "Oft mit Bezug zu kulturellen oder historischen Missionen."@de ;
+        skos:note "Oft mit Bezug zu kulturellen oder historischen Missionen."@de ;
         skos:broader arch:berufsrolle ;
         skos:narrower arch:politker ;
         skos:inScheme arch: .
@@ -189,7 +189,7 @@ skos:prefLabel "Fotograf*in"@de ;
         skos:altLabel "Photograph*in"@de ;
         dct:description "Person, die professionell Fotografien herstellt."@de ;
         skos:definition "Fachperson für die Anfertigung von fotografischen Aufnahmen."@de ;
-        skos:scopeNote "Hier im Zusammenhang mit der Dokumentation archäologischer Funde und Befunde."@de ;
+        skos:note "Hier im Zusammenhang mit der Dokumentation archäologischer Funde und Befunde."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:geistliche a skos:Concept ;
@@ -197,7 +197,7 @@ skos:prefLabel "Geistliche*r"@de ;
         skos:altLabel "Kleriker*in"@de ;
         dct:description "Person, die eine religiöse Funktion ausübt."@de ;
         skos:definition "Vertreter*in einer religiösen Institution."@de ;
-        skos:scopeNote "Geistliche haben sich häufig mit der Altertumskunde beschäftigt."@de ;
+        skos:note "Geistliche haben sich häufig mit der Altertumskunde beschäftigt."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:geograf a skos:Concept ;
@@ -212,7 +212,7 @@ skos:prefLabel "Geologe*in"@de ;
         skos:altLabel "Erdwissenschaftler*in"@de ;
         dct:description "Wissenschaftler*in, der/die sich mit dem Aufbau, der Zusammensetzung und der Struktur der Erdkruste beschäftigt."@de ;
         skos:definition "Person, die Gesteine, Mineralien und die Entwicklung der Erde untersucht, oft im Zusammenhang mit archäologischen Fundstätten."@de ;
-        skos:scopeNote "Aus der Geologie kommen methodische Ansätze der archäologischen Stratigrafie."@de ;
+        skos:note "Aus der Geologie kommen methodische Ansätze der archäologischen Stratigrafie."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:geophysiker a skos:Concept ;
@@ -227,7 +227,7 @@ skos:prefLabel "Grabungstechniker*in"@de ;
         skos:altLabel "Ausgrabungstechniker*in"@de ;
         dct:description "Fachkraft, die bei archäologischen Ausgrabungen technische Unterstützung leistet."@de ;
         skos:definition "Person, die für die technische Durchführung und Dokumentation von archäologischen Grabungen ausgebildet und verantwortlich ist."@de ;
-        skos:scopeNote "Professionalierung erst in jüngerer Zeit, aber von Anfang an spezialisierte Personen tätig."@de ;
+        skos:note "Professionalierung erst in jüngerer Zeit, aber von Anfang an spezialisierte Personen tätig."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:historiker a skos:Concept ;
@@ -243,7 +243,7 @@ skos:prefLabel "Ingenieur*in"@de ;
         skos:altLabel "Techniker*in"@de ;
         dct:description "Person, die an einer Hochschule eine technische Ausbildung abgeschlossen hat."@de ;
         skos:definition "Fachperson mit technischer Ausbildung, die oft in der Planung und Umsetzung von Bauprojekten oder technischen Lösungen tätig ist."@de ;
-        skos:scopeNote "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."@de ;
+        skos:note "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."@de ;
         skos:broader arch:berufsrolle ;
         skos:narrower arch:vermessungsingenieur ;
         skos:inScheme arch: .
@@ -274,7 +274,7 @@ skos:prefLabel "Kartograf*in"@de ;
         skos:altLabel "Kartenzeichner*in"@de ;
         dct:description "Wissenschaftler*in, die sich mit der Erstellung von Karten beschäftigt."@de ;
         skos:definition "Person, die geografische Informationen sammelt, analysiert und in Kartenform darstellt."@de ;
-        skos:scopeNote "Im Zusammenhang mit der Vermessund und Kartierung von Landschaften werden oft archäologische Funde und Befunde entdeckt."@de ;
+        skos:note "Im Zusammenhang mit der Vermessund und Kartierung von Landschaften werden oft archäologische Funde und Befunde entdeckt."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:kolonialbeamter a skos:Concept ;
@@ -289,7 +289,7 @@ skos:prefLabel "Kunsthistoriker*in"@de ;
         skos:altLabel "Kunstgeschichtler*in"@de ;
         dct:description "Wissenschaftler*in auf dem Gebiet der Geschichte der bildenden Kunst."@de ;
         skos:definition "Person, die sich mit der Erforschung und Interpretation von Kunstwerken und ihrer historischen Entwicklung beschäftigt."@de ;
-        skos:scopeNote "Mit Überschneidungen vor allem zur Klassischen Archäologie und Ägyptologie."@de ;
+        skos:note "Mit Überschneidungen vor allem zur Klassischen Archäologie und Ägyptologie."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:künstler a skos:Concept ;
@@ -318,7 +318,7 @@ skos:prefLabel "Landwirt*in"@de ;
         skos:altLabel "Bauer/Bäuerin"@de ;
         dct:description "In der Landwirtschaft tätige Person, die Flächen bewirtschaftet um pflanzliche oder tierische Produkte zu erzeugen."@de ;
         skos:definition "Person, die in der Landwirtschaft tätig ist."@de ;
-        skos:scopeNote "Bei landwirtschaftlichen Arbeiten kommen häufig archäologische Funde und Befund zu tage."@de ;
+        skos:note "Bei landwirtschaftlichen Arbeiten kommen häufig archäologische Funde und Befund zu tage."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:lehrer a skos:Concept ;
@@ -353,7 +353,7 @@ arch:militärangehörige a skos:Concept ;
 skos:prefLabel "Militärangehörige*r"@de ;
         dct:description "Person, die einem Militär angehört."@de ;
         skos:definition "Angehörige*r der Streitkräfte."@de ;
-        skos:scopeNote "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "@de ;
+        skos:note "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "@de ;
         skos:broader arch:berufsrolle ;
         skos:narrower arch:soldat ;
         skos:narrower arch:offizier ;
@@ -370,7 +370,7 @@ skos:prefLabel "Offizier*in"@de ;
         skos:altLabel "Militärführer*in"@de ;
         dct:description "Person, die in den Streitkräften eine Führungsposition innehat."@de ;
         skos:definition "Angehörige*r der Streitkräfte mit Führungsaufgaben."@de ;
-        skos:scopeNote "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "@de ;
+        skos:note "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "@de ;
         skos:broader arch:militärangehörige ;
         skos:inScheme arch: .
 arch:paläontologe a skos:Concept ;
@@ -400,7 +400,7 @@ arch:restaurator a skos:Concept ;
 skos:prefLabel "Restaurator*in (archäologisch)"@de ;
         dct:description "Fachperson, die archäologische Funde konserviert und restauriert."@de ;
         skos:definition "Person, die für die Erhaltung und Wiederherstellung von archäologischen Objekten verantwortlich ist."@de ;
-        skos:scopeNote "Restaurator*in, die speziell im Bereich Archäologie ausgebildet ist."@de ;
+        skos:note "Restaurator*in, die speziell im Bereich Archäologie ausgebildet ist."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:schriftsteller a skos:Concept ;
@@ -414,7 +414,7 @@ arch:soldat a skos:Concept ;
 skos:prefLabel "Soldat*in"@de ;
         dct:description "Person, die in den Streitkräften dient."@de ;
         skos:definition "Angehörige*r der Streitkräfte."@de ;
-        skos:scopeNote "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "@de ;
+        skos:note "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "@de ;
         skos:broader arch:militärangehörige ;
         skos:inScheme arch: .
 arch:staatsoberhaupt a skos:Concept ;
@@ -422,7 +422,7 @@ skos:prefLabel "Staatsoberhaupt"@de ;
         skos:altLabel "Herrscher*in"@de ;
         dct:description "Herrscher*in eines Staates."@de ;
         skos:definition "Person an der Spitze der Exekutive eines Staates."@de ;
-        skos:scopeNote "Staatsoberhäupter gehörten zu den Sammlern archäologischer Objekte."@de ;
+        skos:note "Staatsoberhäupter gehörten zu den Sammlern archäologischer Objekte."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
 arch:theolog a skos:Concept ;
@@ -444,7 +444,7 @@ skos:prefLabel "Vermessungsingenieur*in"@de ;
         skos:altLabel "Vermessungstechniker*in"@de ;
         dct:description "Person, die mit entsprechender Ausbildung Vermessungen für Bauvorhaben durchführt."@de ;
         skos:definition "Fachperson, die Vermessungen durchführt und geografische Daten erfasst."@de ;
-        skos:scopeNote "Bei Vermessungsarbeiten wurden häufig archäologische Fundstätten entdeckt und dokumentiert. "@de ;
+        skos:note "Bei Vermessungsarbeiten wurden häufig archäologische Fundstätten entdeckt und dokumentiert. "@de ;
         skos:broader arch:ingenieur ;
         skos:inScheme arch: .
 arch:grafiker a skos:Concept ;
@@ -452,6 +452,6 @@ skos:prefLabel "Grafiker*in"@de ;
         skos:altLabel "Zeichner*in"@de ;
         dct:description "Künstlerin oder Technikerin auf dem Gebiet der Grafik."@de ;
         skos:definition "Person, die grafische Werke schafft oder technisch umsetzt."@de ;
-        skos:scopeNote "Hier mit Bezug zu historischen oder archäologischen Objekten und Inhalten."@de ;
+        skos:note "Hier mit Bezug zu historischen oder archäologischen Objekten und Inhalten."@de ;
         skos:broader arch:berufsrolle ;
         skos:inScheme arch: .
