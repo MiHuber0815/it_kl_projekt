@@ -12,7 +12,7 @@
   "definition": {
     "de": "Spezialist*in für die Sammlung, die Pflege und den Handel von Büchern, Antiquitäten und seltenen Gegenständen mit historischer oder kultureller Bedeutung."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Im Antikenhandel finden sich unter anderem legal oder illegal erworbene aus archäologischen Stätten stammende Objekte."
     ]
@@ -27,7 +27,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

@@ -12,7 +12,7 @@
   "definition": {
     "de": "Fachperson für die Planung, Gestaltung und Überwachung von Bauprojekten, oft mit Bezug zu historischen oder archäologischen Kontexten."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."
     ]
@@ -27,7 +27,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

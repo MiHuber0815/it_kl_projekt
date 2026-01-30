@@ -7,7 +7,7 @@
   "definition": {
     "de": "Person, die durch Ausgrabungen und Analysen von archäologischen Funden die Entwicklung des Menschen und die Geschichte und Kultur vergangener Gesellschaften rekonstruiert."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Hier als Sammelbegriff für die verschiedenen Disziplinen der Archäologie."
     ]
@@ -42,7 +42,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

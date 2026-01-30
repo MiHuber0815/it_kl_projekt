@@ -12,7 +12,7 @@
   "definition": {
     "de": "Vertreter*in eines Staates in internationalen Beziehungen."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Oft mit Bezug zu kulturellen oder historischen Missionen."
     ]
@@ -21,7 +21,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

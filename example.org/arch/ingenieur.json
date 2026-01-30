@@ -12,7 +12,7 @@
   "definition": {
     "de": "Fachperson mit technischer Ausbildung, die oft in der Planung und Umsetzung von Bauprojekten oder technischen Lösungen tätig ist."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Bei Bauvorhaben und -arbeiten finden sich häufig archäologische Stätten und Funde."
     ]
@@ -35,7 +35,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

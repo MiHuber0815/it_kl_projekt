@@ -7,7 +7,7 @@
   "definition": {
     "de": "Angehörige*r der Streitkräfte."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Bei Militäroperationen werden archäologische Funde entdeckt, zerstört, geraubt etc. "
     ]
@@ -22,7 +22,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

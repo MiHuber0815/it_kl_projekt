@@ -7,7 +7,7 @@
   "definition": {
     "de": "Wissenschaftler*in, die sich mit der politischen, sozialen und kulturellen Geschichte der griechisch-römischen Antike beschäftigt."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Althistoriker*innen haben sich außer mit Texten oft auch mit materiellen Hinterlassenschaften beschäftigt."
     ]
@@ -22,7 +22,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

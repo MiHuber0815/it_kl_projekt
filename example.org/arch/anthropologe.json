@@ -7,7 +7,7 @@
   "definition": {
     "de": "Person, die sich mit der biologischen und kulturellen Entwicklung des Menschen beschäftigt."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Im Mittelpunkt stehen in diesem Kontext menschliche Skelette aus archäologischen Befunden."
     ]
@@ -22,7 +22,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

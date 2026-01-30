@@ -12,7 +12,7 @@
   "definition": {
     "de": "Person, die sich mit der Erforschung der Geschichte, Sprache, Kultur und materiellen Hinterlassenschaften des alten Ägypten beschäftigt."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Die Ägpytologie hat sich vor der Vor- und Frühgeschichte als eigenes Fach etabliert."
     ]
@@ -27,7 +27,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

@@ -12,7 +12,7 @@
   "definition": {
     "de": "Fachperson für die Anfertigung von fotografischen Aufnahmen."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Hier im Zusammenhang mit der Dokumentation archäologischer Funde und Befunde."
     ]
@@ -27,7 +27,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

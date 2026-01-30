@@ -12,7 +12,7 @@
   "definition": {
     "de": "Person, die in der Landwirtschaft tätig ist."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Bei landwirtschaftlichen Arbeiten kommen häufig archäologische Funde und Befund zu tage."
     ]
@@ -27,7 +27,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

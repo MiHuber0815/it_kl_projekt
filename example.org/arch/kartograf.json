@@ -12,7 +12,7 @@
   "definition": {
     "de": "Person, die geografische Informationen sammelt, analysiert und in Kartenform darstellt."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Im Zusammenhang mit der Vermessund und Kartierung von Landschaften werden oft archäologische Funde und Befunde entdeckt."
     ]
@@ -27,7 +27,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

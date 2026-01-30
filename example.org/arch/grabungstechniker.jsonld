@@ -12,7 +12,7 @@
   "definition": {
     "de": "Person, die für die technische Durchführung und Dokumentation von archäologischen Grabungen ausgebildet und verantwortlich ist."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Professionalierung erst in jüngerer Zeit, aber von Anfang an spezialisierte Personen tätig."
     ]
@@ -27,7 +27,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

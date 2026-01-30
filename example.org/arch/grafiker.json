@@ -12,7 +12,7 @@
   "definition": {
     "de": "Person, die grafische Werke schafft oder technisch umsetzt."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Hier mit Bezug zu historischen oder archäologischen Objekten und Inhalten."
     ]
@@ -27,7 +27,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

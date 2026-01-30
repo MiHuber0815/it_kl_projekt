@@ -12,7 +12,7 @@
   "definition": {
     "de": "Person, die sich mit der Erforschung und Interpretation von Kunstwerken und ihrer historischen Entwicklung beschäftigt."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Mit Überschneidungen vor allem zur Klassischen Archäologie und Ägyptologie."
     ]
@@ -27,7 +27,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],

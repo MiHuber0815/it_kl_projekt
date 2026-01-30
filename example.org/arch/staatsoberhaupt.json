@@ -12,7 +12,7 @@
   "definition": {
     "de": "Person an der Spitze der Exekutive eines Staates."
   },
-  "scopeNote": {
+  "note": {
     "de": [
       "Staatsoberhäupter gehörten zu den Sammlern archäologischer Objekte."
     ]
@@ -21,7 +21,7 @@
     {
       "id": "https://example.org/arch/",
       "title": {
-        "de": "Vokabular Propyleum Vitae"
+        "de": "Vokabular Propylaeum-VITAE"
       }
     }
   ],
